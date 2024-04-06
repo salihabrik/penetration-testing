@@ -77,5 +77,6 @@ https://t.me/c/1821198205/27006
 
 https://t.me/c/1821198205/27012
 
+
 SLIDES-DevSecOps_Essentials_Community_Edition-1
 
