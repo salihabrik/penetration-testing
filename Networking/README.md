@@ -82,3 +82,5 @@ SLIDES-DevSecOps_Essentials_Community_Edition-1
 
 
 https://t.me/AllSecurityEngineeringCourses/1713
+
+https://reconshell.com/sshtunnel-ssh-tunnel-to-remote-server/
