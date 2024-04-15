@@ -129,3 +129,10 @@ https://t.me/c/1911121333/568/9635
 
 
 https://t.me/c/1911121333/568/8989
+
+
+# python for hackers 
+
+
+
+
