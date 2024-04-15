@@ -116,4 +116,8 @@ https://t.me/CyberSecurityforall24/932
 
 https://t.me/AllSecurityEngineeringCourses/1722
 
+https://t.me/c/1911121333/569/12367
+
+https://t.me/c/1911121333/569/12368
+
 
