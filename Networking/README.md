@@ -133,6 +133,8 @@ https://t.me/c/1911121333/568/8989
 
 # python for hackers 
 
+https://t.me/c/1911121333/568/3397
+
 
 
 
