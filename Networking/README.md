@@ -182,18 +182,5 @@ Comptia A+ (https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 3. Linux Skills - The Linux command Line and Shell Scripting Bible pdf (https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion)
 4. Programming -  YouTube (Python)😁
 
-# Sponsor this project
 
-**Bitcoin Address**
-```
-bc1q33ncrxzpuc5n02dc05kl44vpmaw53wf3ztq78q
-```
-**Etherium Address**
-```
-0x1c9155bc825CBa45B64741f2E33069d6808AdD92
-```
-**Litecoin Address**
-```
-LRvPjCq3ZNunLz3bnSc4wz4FDJF8AZUJLK
-```
 
