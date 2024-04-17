@@ -183,4 +183,4 @@ Comptia A+ (https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 4. Programming -  YouTube (Python)😁
 
 
-
+https://t.me/c/1911121333/108/8002
