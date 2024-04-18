@@ -184,3 +184,7 @@ Comptia A+ (https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 
 
 https://t.me/c/1911121333/108/8002
+
+https://t.me/c/1911121333/569/8600
+
+
