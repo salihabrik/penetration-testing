@@ -180,7 +180,7 @@ or
 Comptia A+ (https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 2. Networking Skills - ITProTV Comptia Network + (https://mega.nz/folder/bm5UUZoS#qIswiU9nj_fxK-czHMMcsA)
 3. Linux Skills - The Linux command Line and Shell Scripting Bible pdf (https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion)
-4. Programming -  YouTube (Python)😁
+4. Programming -  YouTube (Python)
 
 
 https://t.me/c/1911121333/108/8002
