@@ -10,3 +10,6 @@ https://t.me/c/1911121333/768/12362
 https://t.me/c/1911121333/768/934
 course linux
 https://t.me/c/1911121333/768/1032
+
+RHCSA
+https://t.me/c/1911121333/768/12361
