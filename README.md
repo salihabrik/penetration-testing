@@ -71,3 +71,7 @@ Prompt Engineering - Tools
 Prompt Engineering - Notebooks
 Prompt Engineering - Datasets
 Prompt Engineering - Additional Readings
+
+ https://www.fireeye.com/blog/threat-research.html
+
+
